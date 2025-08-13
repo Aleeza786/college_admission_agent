@@ -46,6 +46,5 @@ Future Scope:
 📌 Chatbot-to-Human Escalation: Provide live agent support for complex queries.
 📌 Mobile App Support: Expand access via Android/iOS platforms.
 📌 Data Analytics Dashboard: For institutions to gain insights into student interests and bottlenecks.
-
 📌 Voice Assistant Integration: Enable voice-based interactions via Alexa, Google Assistant, or IVR.
 
